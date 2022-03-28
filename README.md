@@ -32,11 +32,11 @@
 - Auth using Passport and JWT with Roles
 
 #### Goals Achieved
-  [X] Experience with NestJS concepts
-  [X] Experience with Prisma Concepts
-  [X] Experience with Authorization and Authentication
-  [X] Experience with caching third-party API data
-  [X] Experience with Request Validation and Transformation
+  - [X] Experience with NestJS concepts
+  - [X] Experience with Prisma Concepts
+  - [X] Experience with Authorization and Authentication
+  - [X] Experience with caching third-party API data
+  - [X] Experience with Request Validation and Transformation
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
